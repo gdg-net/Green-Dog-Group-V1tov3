@@ -1,1 +1,1 @@
-making a ultraviolet browser called ultrasearch
+This version of green dog group is outated please use v2 instead https://github.com/gdg-network/green-dog-group-v2 
